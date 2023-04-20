@@ -1,2 +1,1 @@
-# guess-number
-Code 4 Beer - Apr 20th, 2023
+![alt text](./c4b-a20.png)
